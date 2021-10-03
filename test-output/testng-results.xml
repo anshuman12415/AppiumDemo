@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="64" started-at="2021-09-27T17:59:45Z" finished-at="2021-09-27T17:59:45Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="64" started-at="2021-09-27T17:59:45Z" finished-at="2021-09-27T17:59:45Z">
+      <class name="testng1.Testngtest">
+        <test-method status="PASS" signature="testfirst()[pri:0, instance:testng1.Testngtest@548a9f61]" name="testfirst" is-config="true" duration-ms="10" started-at="2021-09-27T17:59:45Z" finished-at="2021-09-27T17:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testfirst -->
+        <test-method status="PASS" signature="init()[pri:0, instance:testng1.Testngtest@548a9f61]" name="init" is-config="true" duration-ms="1" started-at="2021-09-27T17:59:45Z" finished-at="2021-09-27T17:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="init()[pri:0, instance:testng1.Testngtest@548a9f61]" name="init" is-config="true" duration-ms="1" started-at="2021-09-27T17:59:45Z" finished-at="2021-09-27T17:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="Mon()[pri:0, instance:testng1.Testngtest@548a9f61]" name="Mon" duration-ms="5" started-at="2021-09-27T17:59:45Z" finished-at="2021-09-27T17:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mon -->
+        <test-method status="PASS" signature="Sun()[pri:0, instance:testng1.Testngtest@548a9f61]" name="Sun" duration-ms="8" started-at="2021-09-27T17:59:45Z" finished-at="2021-09-27T17:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sun -->
+        <test-method status="PASS" signature="init()[pri:0, instance:testng1.Testngtest@548a9f61]" name="init" is-config="true" duration-ms="0" started-at="2021-09-27T17:59:45Z" finished-at="2021-09-27T17:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="Tue()[pri:0, instance:testng1.Testngtest@548a9f61]" name="Tue" duration-ms="9" started-at="2021-09-27T17:59:45Z" finished-at="2021-09-27T17:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tue -->
+        <test-method status="PASS" signature="init()[pri:0, instance:testng1.Testngtest@548a9f61]" name="init" is-config="true" duration-ms="3" started-at="2021-09-27T17:59:45Z" finished-at="2021-09-27T17:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="Wed()[pri:0, instance:testng1.Testngtest@548a9f61]" name="Wed" duration-ms="2" started-at="2021-09-27T17:59:45Z" finished-at="2021-09-27T17:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Wed -->
+        <test-method status="PASS" signature="init()[pri:0, instance:testng1.Testngtest@548a9f61]" name="init" is-config="true" duration-ms="1" started-at="2021-09-27T17:59:45Z" finished-at="2021-09-27T17:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="firsttest()[pri:0, instance:testng1.Testngtest@548a9f61]" name="firsttest" duration-ms="2" started-at="2021-09-27T17:59:45Z" finished-at="2021-09-27T17:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firsttest -->
+        <test-method status="PASS" signature="testexe()[pri:0, instance:testng1.Testngtest@548a9f61]" name="testexe" is-config="true" duration-ms="1" started-at="2021-09-27T17:59:45Z" finished-at="2021-09-27T17:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testexe -->
+      </class> <!-- testng1.Testngtest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
